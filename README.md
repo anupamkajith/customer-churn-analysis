@@ -58,6 +58,39 @@ customer-churn-analysis/
 └── README.md
 ```
 ---
+
+## ▶️ How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/anupamkajith/customer-churn-analysis.git
+cd customer-churn-analysis
+```
+
+2. Install the required Python libraries:
+
+```bash
+pip install pandas numpy matplotlib openpyxl jupyter
+```
+
+3. Start Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+4. Open the notebook inside the `notebooks/` folder.
+
+5. Run the notebook cells sequentially to reproduce the customer churn analysis and visualizations.
+
+> **Note:** The dataset is stored inside the `data/` folder. The notebook should use the relative dataset path:
+>
+> `../data/Telco_customer_churn.xlsx`
+
+
+
+---
 # 📊 Key Insights
 
 ## 1️⃣ Overall Churn Rate
