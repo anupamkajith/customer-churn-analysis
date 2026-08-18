@@ -39,9 +39,11 @@ The goal of this analysis is to:
 
 - Python
 - Pandas
+- NumPy
 - Matplotlib
+- Jupyter Notebook
 - Exploratory Data Analysis (EDA)
-- Segmentation & Multi-Factor Analysis
+- Customer Segmentation & Multi-Factor Analysis
 
 ---
 
