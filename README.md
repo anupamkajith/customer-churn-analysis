@@ -131,4 +131,4 @@ This analysis identified key churn drivers across tenure, contract type, technic
 # 👤 Author
 
 **Anupam K Ajith**  
-Aspiring Data Analyst | SQL | Python | Data-Driven Decision Making  
+AI/ML & GenAI | M.Tech AI & Data Science @ IIIT Kottayam | Python | RAG | MLOps
