@@ -48,7 +48,7 @@ The goal of this analysis is to:
 ---
 ## 📂 Repository Structure
 
-```text```
+```text
 customer-churn-analysis/
 ├── data/
 │   └── Telco_customer_churn.xlsx
@@ -56,7 +56,7 @@ customer-churn-analysis/
 │   └── churnAnalysis.ipynb
 ├── .gitignore
 └── README.md
-
+```
 ---
 # 📊 Key Insights
 
