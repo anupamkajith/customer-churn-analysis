@@ -46,7 +46,18 @@ The goal of this analysis is to:
 - Customer Segmentation & Multi-Factor Analysis
 
 ---
+## 📂 Repository Structure
 
+```text```
+customer-churn-analysis/
+├── data/
+│   └── Telco_customer_churn.xlsx
+├── notebooks/
+│   └── churnAnalysis.ipynb
+├── .gitignore
+└── README.md
+
+---
 # 📊 Key Insights
 
 ## 1️⃣ Overall Churn Rate
