@@ -125,8 +125,7 @@ This segment shows churn rates exceeding **50%**, making it a priority for reten
 
 # 🚀 Project Outcome
 
-This analysis successfully identified major churn drivers and provided actionable insights to support retention-focused business decisions.
-
+This analysis identified key churn drivers across tenure, contract type, technical support, and pricing, and translated them into actionable retention recommendations.
 ---
 
 # 👤 Author
